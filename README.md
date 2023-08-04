@@ -1,6 +1,8 @@
 # Data Science Project
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
 
+## Content
+
 ### Project 1
 xxxxxxxx
 
