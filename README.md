@@ -1,5 +1,7 @@
 # Data Science Project
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+Repository containing portfolio of data science projects completed by me for academic, self-learning, and hobby purposes.
+
+Presented in the form of jupyter notebook(coding parts) and PDF(analysing parts).
 
 ## Content
 
