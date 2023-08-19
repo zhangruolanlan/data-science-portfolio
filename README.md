@@ -5,10 +5,10 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Data Cleaning
 
-	- [Trends in International Migrant Stock](https://github.com/zhangruolanlan/data-science-project/tree/main/Trends%20in%20International%20Migrant%20Stock):
-Cleaned raw data about international migrant statistics imported from seven excel worksheets, and transformed into tidy data according to tidy data principles.
+	- [Trends in International Migrant Stock - cleaning section](https://github.com/zhangruolanlan/data-science-project/tree/main/Trends%20in%20International%20Migrant%20Stock): Cleaned raw data about international migrant statistics imported from seven excel worksheets, and transformed into tidy data according to tidy data principles.
 
 - ### Data Visualization
+	- [Trends in International Migrant Stock - visualization section](https://github.com/zhangruolanlan/data-science-project/tree/main/Trends%20in%20International%20Migrant%20Stock):
 
 - ### Data Analysis
   
