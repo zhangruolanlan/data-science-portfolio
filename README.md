@@ -3,14 +3,14 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ## Content
 
+- ### Data Cleaning
+
 - ### Data Visualization
 
 - ### Data Analysis
   
 	- [Exploration of the Arrest Pattern and Performance of the Toronto Police Service](https://github.com/zhangruolanlan/data-science-project/tree/main/arrests_and_strip_search/Midterm)
-xxxxxxxx
 
 	- [A Study of Examining the Toronto Police Service’s Strip Search Policy](https://github.com/zhangruolanlan/data-science-project/tree/main/arrests_and_strip_search/final)
-xxxxxxxx
 
 
