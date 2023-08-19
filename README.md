@@ -13,4 +13,6 @@ Repository containing portfolio of data science projects completed by me for aca
 
 	- [A Study of Examining the Toronto Police Service’s Strip Search Policy](https://github.com/zhangruolanlan/data-science-project/tree/main/arrests_and_strip_search/final)
 
+	_Tools: scikit-learn, Pandas, numpy, Seaborn, Matplotlib
+
 
