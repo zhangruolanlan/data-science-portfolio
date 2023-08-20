@@ -7,11 +7,11 @@ Presented in the form of jupyter notebook(coding parts) and PDF(analysing parts)
 
 - ### Data Modelling
   
-	- [Examine the structure of a stationary shop in Toronto - data modelling](https://github.com/zhangruolanlan/data-science-project/tree/main/Examine%20the%20structure%20of%20a%20stationary%20shop)
+	- [Examine the structure of a stationary shop in Toronto - data modelling section](https://github.com/zhangruolanlan/data-science-project/tree/main/Examine%20the%20structure%20of%20a%20stationary%20shop)
    
 - ### Database Design
   
-	- [Examine the structure of a stationary shop in Toronto - database design](https://github.com/zhangruolanlan/data-science-project/tree/main/Examine%20the%20structure%20of%20a%20stationary%20shop)
+	- [Examine the structure of a stationary shop in Toronto - database design section](https://github.com/zhangruolanlan/data-science-project/tree/main/Examine%20the%20structure%20of%20a%20stationary%20shop)
    
 ## Python
 
