@@ -5,7 +5,14 @@ Presented in the form of jupyter notebook(coding parts) and PDF(analysing parts)
 
 ## SQL
 
-
+- ### Data Modelling
+  
+	- [Examine the structure of a stationary shop in Toronto - data modelling]()
+   
+- ### Database Design
+  
+	- [Examine the structure of a stationary shop in Toronto - database design]()
+   
 ## Python
 
 - ### Data Cleaning
