@@ -3,7 +3,10 @@ Repository containing portfolio of data science projects completed by me for aca
 
 Presented in the form of jupyter notebook(coding parts) and PDF(analysing parts).
 
-## Content
+## SQL
+
+
+## Python
 
 - ### Data Cleaning
 
